@@ -1,0 +1,17 @@
+{
+  "name": "npm_test",
+  "version": "1.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitwise": "^2.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
